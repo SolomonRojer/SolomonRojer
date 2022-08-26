@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on BlockChain Technology and my personal projects.
 - 🌱 I’m currently learning HyperLedger, SmartContracts.
-- 👯 I’m looking to collaborate on Ethereum Technology.
+- 👯 I’m looking to collaborate on Solidity.
 
 <!---
 SolomonRojer/SolomonRojer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
